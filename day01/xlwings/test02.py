@@ -1,0 +1,27 @@
+#练习excel的基本插入操作
+import xlwings as xw
+#应用->visible表示过程是否可见，add_book表示是否新建Excel文件
+app=xw.App(visible=True,add_book=False)
+#工作簿
+wb=app.books.add()
+#工作表
+sht=wb.sheets["sheet1"]
+#范围
+sht.range("d1").value="20"
+sht.range("c1").value="15"
+sht.range("b1").value="10"
+sht.range("a1").value="数值"
+sht.range("e1").value="总数"
+sht.range("f1").value="=sum(b1,c1,d1)"
+#插入一行
+sht.range("a2:f2").value=[0,1,2,3,4,5]
+#插入一列
+sht.range("g1:g6").options(transpose=True).value=[1,2,3,4,5,6]
+#插入行列
+sht.range("a3").value=[[1,2],[1,3],[1,4]]
+#保存
+wb.save("temp01/demo2.xlsx")
+#关闭
+wb.close()
+#退出
+app.quit()
