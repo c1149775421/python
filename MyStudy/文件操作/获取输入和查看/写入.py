@@ -1,0 +1,10 @@
+a = input("请输入：")
+print(a)
+b=a
+f=open("result.txt",mode="a",encoding="utf-8")
+f.write(b+"\n")
+print("\n写入成功")
+print("\n你写入的是："+b)
+f.flush()
+f.close()
+input("按enter键退出")

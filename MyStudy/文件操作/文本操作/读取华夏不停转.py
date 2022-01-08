@@ -1,0 +1,6 @@
+f=open("华夏不停转.txt",mode="r",encoding="utf-8")
+a=f.read()
+print(a+"\n读取成功")
+f.flush()
+f.close()
+input("按enter退出")

@@ -1,0 +1,6 @@
+f=open("debug.txt",mode="w",encoding="utf-8")
+f.write("")
+f.flush()
+f.close()
+print("已清空")
+input("按enter键退出")

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			function random(max, min) {
+				min = min || 0;
+				max = max || 10;
+				return Math.floor(Math.random() * (max - min) + min);//Math.random()*(100-1)+1;
+			}
+
+			function GetIDCard() {
+				var address = random(999999, 100000);
+				var date = new Date();
+				var yearfull = date.getFullYear();
+				var y = random(yearfull + 1, yearfull - 70);
+				var m = random(13, 1);
+				var d = random(30, 1);
+				var z = random(9999, 1000);
+				if (m < 10) {
+					m = '0' + m;
+				}
+				if (d < 10) {
+					d = '0' + d;
+				}
+				return (address + '' + y + '' + m + '' + d + '' + z + '');
+			}
+			for(var i=0;i<10;i++){
+				document.write(GetIDCard()+"<br>");
+			}
+		</script>
+	</body>
+
+</html>

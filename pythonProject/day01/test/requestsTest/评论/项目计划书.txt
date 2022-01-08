@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="en"><head><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/css/xreader.44e17eb76493ab7f30a5.css" rel="stylesheet"/></head><head>
+<meta charset="utf-8"/>
+<title>创新创业计划书范文 - 百度文库</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<link href="https://www.baidu.com/cache/icon/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.baidu.com/cache/icon/favicon.svg" rel="icon" sizes="any"/>
+<script>
+        window.tsFP = Date.now();
+    </script>
+<style>.reader-word-s1-0 { font-weight: 600;font-size:348px; } .reader-word-s1-0,.reader-word-s1-2,.reader-word-s1-3,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-8,.reader-word-s1-1 { color:#000000; } .reader-word-s1-2 { font-family: '宋体', '28a855fc9ec3d5bbfd0a74ed0040001', '宋体'; } .reader-word-s1-2,.reader-word-s1-4,.reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-3 { font-size:253px; } .reader-word-s1-5,.reader-word-s1-6,.reader-word-s1-7,.reader-word-s1-4 { font-family: '宋体', '28a855fc9ec3d5bbfd0a74ed0050001', '宋体'; } .reader-word-s1-5 { letter-spacing: 0.55px; } .reader-word-s1-6 { letter-spacing: 0.10999999999999999px; } .reader-word-s1-7 { letter-spacing: 0.44999999999999996px; } .reader-word-s1-8 { font-family: 'Calibri', '28a855fc9ec3d5bbfd0a74ed0010001', 'Calibri'; } #pageNo-1 .reader-parent{visibility: visible;}</style>
+<style>
+            #pageNo-1 .reader-word-layer {
+                margin-top: --423px;
+            }
+            #pageNo-1 .reader-pic-layer {
+                margin-top: --42px;
+            }
+        </style>
+</head>
+<body>
+<style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+</style>
+<div id="app">
+<header-wrapper></header-wrapper>
+<div class="header-wrapper no-full-screen" v-if="!vueMounted">
+<div class="search-box-wrapper">
+<div class="search-box-inner-wrapper">
+<div class="search-logo-wrap">
+<a href="/?fr=logo">
+<span class="wk-logo-icon"></span>
+</a>
+</div>
+<div class="search-tab-wrap">
+<div class="search-tab-content">
+<div class="search-tab-item">首页</div>
+<div class="search-tab-item">文档</div>
+<div class="search-tab-item">视频</div>
+<div class="search-tab-item">音频</div>
+<div class="search-tab-item">文集</div>
+<div class="search-tab-item">店铺</div>
+</div>
+</div>
+<div class="search-input-wrap">
+<span class="search-input">
+<input autocomplete="off" data-keyword="" id="kw" maxlength="256" placeholder="" tabindex="1"/>
+</span>
+<div class="search-submit-btn">搜索文档</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="left-wrapper zoom-scale">
+<div class="no-full-screen" v-if="!vueMounted">
+<div class="doc-info-wrapper">
+<div class="doc-info-main">
+<div class="doc-info-left">
+<div class="doc-tag-wrap">
+<div class="tag">计划书 </div>
+<div class="tag">书信模板 </div>
+<div class="tag">表格/模板 </div>
+</div>
+<div class="doc-title-wrap">
+<div class="doc-type-icon word"></div>
+<h3 class="doc-title">创新创业计划书范文</h3>
+</div>
+<div class="doc-summary-wrap">
+<span class="doc-score">
+            4.4分
+            （超过78%的文档）
+        </span>
+<span class="divider"></span>
+<span>4.7W阅读</span>
+<span class="divider"></span>
+<span>286下载</span>
+<span class="divider"></span>
+<span>2019-05-31上传</span>
+<span class="divider"></span>
+<span>14页</span>
+</div>
+<div class="doc-btns-wrap">
+<div class="small-btn collect-btn">
+<i class="collect-icon not-collect"></i>
+<span>收藏</span>
+</div>
+<div class="small-btn share-btn" id="doc-info-share-btn">
+<i class="share-icon"></i>
+<span>分享</span>
+</div>
+<div class="small-btn cloud-storage-btn">
+<i class="cloud-storage-icon"></i>
+<span>转存</span>
+</div>
+<div class="small-btn report-btn">
+<i class="report-icon"></i>
+<span>举报</span>
+</div>
+<!-- 由于版权页未上线，故先注释，等待PM @张玉芳通知 -->
+<div class="small-btn copyright-btn">
+<i class="copyright-icon"></i>
+<span>认领</span>
+</div>
+<div class="middle-btn client-btn">
+<i class="client-icon"></i>
+<span>客户端打开</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<doc-head-info></doc-head-info>
+<div class="reader-wrap">
+<div>
+<reader-topbar></reader-topbar>
+<div :style="{height: readerContainerH}" id="reader-container" ref="container">
+<div :data-mate-height="pageWHArr[0].h" :data-mate-width="pageWHArr[0].w" :data-scale="pageWHArr[0].s" :style="{height: `${pageWHArr[0].ph}px`}" class="reader-page ssr" data-page-no="1" data-render="1" id="pageNo-1" style="opacity: 1!important;">
+<div class="reader-pic-layer" style="z-index:1">
+<div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjcloudbos.bdimg.com/v1/docconvert9292//wk/6c828929a9e71b7833630c39ed4c25d2/0.png?responseCacheControl=max-age%3D3888000&amp;responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&amp;authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&amp;x-bce-range=0-275&amp;token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.UmFgQT3W1RvWmMTPw3Fb7JcSUl5O3DaOatDEI%2FUM07I%3D.1607228601);background-position: 0px 0px;width: 893px;height: 1263px;z-index: 1;left: 26.030950000000008px;top: 36.81645000000001px;opacity: 1;transform: scale(1.0583, 1.0583);;position: absolute;overflow: hidden;"></div></div></div>
+<div class="reader-txt-layer" style="z-index:2">
+<div class="ie-fix"><p class="reader-word-layer reader-word-s1-8" style="width: 32px;height: 158px;line-height: 158px;top: 12417px;left: 1429px;z-index: 2;font-size: 142px;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-8" style="width: 37px;height: 185px;line-height: 185px;top: 12416px;left: 4654px;z-index: 3;font-size: 167px;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-0" style="width: 3152px;height: 348px;line-height: 348px;top: 1215px;left: 3147px;z-index: 4;
+                    font-family: '黑体', '28a855fc9ec3d5bbfd0a74ed0020001', '黑体';
+                letter-spacing: 1.79px;;;;;;false;">创新创业计划书范文</p><p class="reader-word-layer reader-word-s1-0" style="width: 174px;height: 348px;line-height: 348px;top: 1215px;left: 6302px;z-index: 5;
+                    font-family: '黑体', '28a855fc9ec3d5bbfd0a74ed0030001', '黑体';
+                ;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 1758px;left: 1429px;z-index: 6;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2253px;left: 1429px;z-index: 7;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2253px;left: 1682px;z-index: 8;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-5" style="width: 1777px;height: 253px;line-height: 253px;top: 2253px;left: 1935px;z-index: 9;;;;;;false;">创新创业计划书</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2253px;left: 3715px;z-index: 10;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2748px;left: 1429px;z-index: 11;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2748px;left: 1682px;z-index: 12;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2748px;left: 1935px;z-index: 13;;;;;;null;">(</p><p class="reader-word-layer reader-word-s1-4" style="width: 253px;height: 253px;line-height: 253px;top: 2748px;left: 2063px;z-index: 14;;;;;;null;">一</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2748px;left: 2316px;z-index: 15;;;;;;null;">)</p><p class="reader-word-layer reader-word-s1-4" style="width: 506px;height: 253px;line-height: 253px;top: 2748px;left: 2444px;z-index: 16;;;;;;false;">摘要</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 2748px;left: 2952px;z-index: 17;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 3243px;left: 1429px;z-index: 18;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 3243px;left: 1682px;z-index: 19;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-4" style="width: 1268px;height: 253px;line-height: 253px;top: 3243px;left: 1935px;z-index: 20;letter-spacing: 0.41000000000000003px;;;;;;false;">项目名称：</p><p class="reader-word-layer reader-word-s1-2" style="width: 2666px;height: 253px;line-height: 253px;top: 3243px;left: 3204px;z-index: 21;letter-spacing: 0.29000000000000004px;;;;;;false;">H&amp;n(health&amp;nutrition)</p><p class="reader-word-layer reader-word-s1-4" style="width: 1013px;height: 253px;line-height: 253px;top: 3243px;left: 5875px;z-index: 22;;;;;;false;">营养餐厅</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 3243px;left: 6891px;z-index: 23;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 3739px;left: 1429px;z-index: 24;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 3739px;left: 1682px;z-index: 25;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-4" style="width: 6081px;height: 253px;line-height: 253px;top: 3739px;left: 1935px;z-index: 26;;;;;;false;">使命：为同学提供实惠方便的绿色餐饮服务，并且为移</p><p class="reader-word-layer reader-word-s1-4" style="width: 4567px;height: 253px;line-height: 253px;top: 4234px;left: 1429px;z-index: 27;letter-spacing: 0.39px;;;;;;false;">动餐厅，哪里有需要，我们就往哪里去。</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 4234px;left: 5999px;z-index: 28;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 4730px;left: 1429px;z-index: 29;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 4730px;left: 1682px;z-index: 30;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-6" style="width: 6083px;height: 253px;line-height: 253px;top: 4730px;left: 1935px;z-index: 31;;;;;;false;">创业项目的起源：当前在学校能买到食品的地方为数不</p><p class="reader-word-layer reader-word-s1-4" style="width: 6588px;height: 253px;line-height: 253px;top: 5225px;left: 1429px;z-index: 32;;;;;;false;">多，且地方小种类少，垃圾食品量多。同学们上课下课时间</p><p class="reader-word-layer reader-word-s1-4" style="width: 6588px;height: 253px;line-height: 253px;top: 5720px;left: 1429px;z-index: 33;;;;;;false;">是规定的，所以校内商店购物高峰期统一，尤其是对于赶时</p><p class="reader-word-layer reader-word-s1-4" style="width: 6587px;height: 253px;line-height: 253px;top: 6216px;left: 1429px;z-index: 34;letter-spacing: 9.97px;;;;;;false;">间的同学来说，购买食品不方便一直是个让人烦心的大问</p><p class="reader-word-layer reader-word-s1-4" style="width: 6588px;height: 253px;line-height: 253px;top: 6711px;left: 1429px;z-index: 35;;;;;;false;">题。原本男生宿舍楼仅有的超市，也被搬迁到校外，而在二</p><p class="reader-word-layer reader-word-s1-4" style="width: 6079px;height: 253px;line-height: 253px;top: 7207px;left: 1429px;z-index: 36;;;;;;false;">教，主楼附近更是想买东西都买不到。在学校里也只有</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 7207px;left: 7573px;z-index: 37;;;;;;null;">2</p><p class="reader-word-layer reader-word-s1-4" style="width: 253px;height: 253px;line-height: 253px;top: 7207px;left: 7766px;z-index: 38;;;;;;null;">个</p><p class="reader-word-layer reader-word-s1-7" style="width: 3045px;height: 253px;line-height: 253px;top: 7702px;left: 1429px;z-index: 39;;;;;;false;">师生超市，一教的小卖部，</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 7702px;left: 4475px;z-index: 40;;;;;;null;">2</p><p class="reader-word-layer reader-word-s1-5" style="width: 3300px;height: 253px;line-height: 253px;top: 7702px;left: 4719px;z-index: 41;;;;;;false;">食对面的超市，整体来说，在</p><p class="reader-word-layer reader-word-s1-4" style="width: 4054px;height: 253px;line-height: 253px;top: 8197px;left: 1429px;z-index: 42;;;;;;false;">学校里买东西很不方便的，尤其是在</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 8197px;left: 5548px;z-index: 43;;;;;;null;">2</p><p class="reader-word-layer reader-word-s1-4" style="width: 2279px;height: 253px;line-height: 253px;top: 8197px;left: 5738px;z-index: 44;;;;;;false;">教上课或上自习，有</p><p class="reader-word-layer reader-word-s1-7" style="width: 3045px;height: 253px;line-height: 253px;top: 8692px;left: 1429px;z-index: 45;;;;;;false;">时候渴了，饿了，还要跑出</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 8692px;left: 4538px;z-index: 46;;;;;;null;">2</p><p class="reader-word-layer reader-word-s1-5" style="width: 3300px;height: 253px;line-height: 253px;top: 8692px;left: 4728px;z-index: 47;;;;;;false;">教，在冬天遇上下雪或大风，</p><p class="reader-word-layer reader-word-s1-4" style="width: 6594px;height: 253px;line-height: 253px;top: 9188px;left: 1429px;z-index: 48;letter-spacing: 10.24px;;;;;;false;">有些同学不得不选择饿肚子，这对身体和学习的影响都很</p><p class="reader-word-layer reader-word-s1-4" style="width: 506px;height: 253px;line-height: 253px;top: 9683px;left: 1429px;z-index: 49;;;;;;false;">大。</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 9683px;left: 1937px;z-index: 50;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 10179px;left: 1429px;z-index: 51;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 10179px;left: 1682px;z-index: 52;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-6" style="width: 6083px;height: 253px;line-height: 253px;top: 10179px;left: 1935px;z-index: 53;;;;;;false;">相信这种情况在各大高校或多或少都存在，鉴于当前学</p><p class="reader-word-layer reader-word-s1-4" style="width: 6599px;height: 253px;line-height: 253px;top: 10674px;left: 1429px;z-index: 54;letter-spacing: 0.45999999999999996px;;;;;;false;">校的情况，我们创业团队想到在我们学校开一个移动餐厅，</p><p class="reader-word-layer reader-word-s1-4" style="width: 2030px;height: 253px;line-height: 253px;top: 11169px;left: 1429px;z-index: 55;letter-spacing: 0.47px;;;;;;false;">来解决这个问题。</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 11169px;left: 3460px;z-index: 56;;;;;;font-family: simsun;;"> 
+</p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 11664px;left: 1429px;z-index: 57;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-2" style="width: 126px;height: 253px;line-height: 253px;top: 11664px;left: 1691px;z-index: 58;;;;;;font-family: simsun;;"> </p><p class="reader-word-layer reader-word-s1-4" style="width: 6060px;height: 253px;line-height: 253px;top: 11664px;left: 1956px;z-index: 59;letter-spacing: 10px;;;;;;false;">首先我们的移动餐厅是利用二手车为主体，并进行改
+</p></div></div>
+</div>
+<div :class="{'reader-page-hidden': curLastPage &lt; v.i}" :data-mate-height="v.h" :data-mate-width="v.w" :data-page-no="v.i" :data-scale="v.s" :id="`pageNo-${v.i}`" :key="i" :style="{height: `${v.ph}px`}" class="reader-page" v-for="(v, i) in pageWHArr" v-if="!(+v.i === 1 &amp;&amp; ssr)">
+<page-loading></page-loading>
+</div>
+</div>
+</div>
+<fold-page></fold-page>
+<lazy-render :time="1000" tip="">
+<copyright></copyright>
+</lazy-render>
+</div>
+<div class="no-full-screen">
+<tool-bar></tool-bar>
+<ad-bottom></ad-bottom>
+<lazy-render :time="1000" tip="">
+<relative-recommend></relative-recommend>
+<comment></comment>
+</lazy-render>
+</div>
+</div>
+<div class="right-wrapper no-full-screen" id="right-wrapper-id">
+<div class="author-info" v-show="!vueMounted">
+<div class="shop-info-wrapper shop-leve-c">
+<div class="title-box">
+<p class="title">金牌店铺</p>
+</div>
+<div class="user-info">
+<div class="avatar" style="background-image: url(https://pic.rmb.bdstatic.com/bjh/user/aa8d0a90ac58652e00d4af0d40d817ae.jpeg);">
+</div>
+<div class="info">
+<div class="nick-box">
+<p class="shop-name">
+                    文档新时代的店
+                </p>
+<p class="shop-intro">
+                    欢迎你的到来，我们一起学习吧！
+                </p>
+</div>
+</div>
+</div>
+<div class="property">
+<div class="item item-goods">
+<p class="title">商品</p>
+<div class="author-info-number">-</div>
+</div>
+<div class="item">
+<p class="title">粉丝</p>
+<div class="author-info-number">166</div>
+</div>
+<div class="item">
+<p class="title">等级</p>
+<div class="author-info-number">Lv3</div>
+</div>
+</div>
+<div class="card-action-box">
+<div class="btn-common">
+                
+                    取消关注
+                
+            </div>
+<div class="btn-common btn-shop">进入店铺</div>
+</div>
+</div>
+</div>
+<author-info></author-info>
+<right-channel></right-channel>
+<operation></operation>
+<relative-search :fix="false" class="sider-edge"></relative-search>
+<relative-doc :fix="false" class="sider-edge"></relative-doc>
+<lazy-render :time="1000" tip="">
+<relative-course :fix="false" class="sider-edge"></relative-course>
+</lazy-render>
+<ad-right class="sider-edge"></ad-right>
+<lazy-render :time="1000" tip="">
+<recommend-fix></recommend-fix>
+</lazy-render>
+</div>
+<div class="no-full-screen">
+<collection-guide></collection-guide>
+</div>
+</div>
+<lazy-render :time="1000" tip="">
+<div class="footer-wrapper no-full-screen" id="footer-wrapper-id">
+<propagation></propagation>
+</div>
+<sidebar></sidebar>
+<vip-member-pop></vip-member-pop>
+<reader-plugin :root-selector="'#reader-container'"></reader-plugin>
+<wkfooter></wkfooter>
+<vip-no-ad-dialog></vip-no-ad-dialog>
+</lazy-render>
+</div>
+<script>window.tsFMP = +(new Date());</script>
+<script>
+        var pageData = {"docInfo2019":{"doc_info":{"show_doc_id":"7f1c192e64ce0508763231126edb6f1aff0071af","title":"创新创业计划书范文","view_count":46922,"download_count":286,"score":4.4,"score_percentage":"78","show_create_time":"20190531 03:59:14","create_time":"1559246354","update_time":"1559246354","page":"14","size":"25414","summary":"","flag":"28","type":"4","ishide":"0","zan":1,"cover_url":"https://wkimg.bdimg.com/img/28a855fc9ec3d5bbfd0a74ed?new=1&w=500&p=1","show_store_id":"28a855fc9ec3d5bbfd0a74ed","is_creater":0,"download_token":"b6fc860af18894c09e6196d8e7d2e099","is_vip_free_doc":false,"main_status":"2","forbidden_comment":0,"modifyLock":0,"is_legion_doc":0,"editorDocId":"","professional_doc":1,"doc_type":3,"is_inroom":0,"typeName":"word","view_count_show":"4.7W","download_count_show":"286","create_time_show":"2019-05-31"},"cover_list":[],"tags":[{"tag":"计划书","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%BC%C6%BB%AE%CA%E9","type":1},{"tag":"书信模板","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%CA%E9%D0%C5%C4%A3%B0%E5","type":1},{"tag":"表格/模板","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B1%ED%B8%F1%2F%C4%A3%B0%E5","type":1}],"search_words":[],"hot_words":[{"word":"计划书","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%BC%C6%BB%AE%CA%E9"},{"word":"实用文档","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%CA%B5%D3%C3%CE%C4%B5%B5"},{"word":"表格/模板","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B1%ED%B8%F1%2F%C4%A3%B0%E5"},{"word":"书信模板","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%CA%E9%D0%C5%C4%A3%B0%E5"}],"creator_info":{"uid_str":"2300b70b31126edb6f1a1044","uname":"紫陌2211","utype":"PGC","follower_count":"180","have_followed":"0","level":"3","scienceOrg":0,"scienceRepeatSign":0,"tname":"文档新时代","verify_type":"59","verify_name":"欢迎你的到来，我们一起学习吧！","summary":"欢迎你的到来，我们一起学习吧！","avadar":"https://pic.rmb.bdstatic.com/bjh/user/aa8d0a90ac58652e00d4af0d40d817ae.jpeg","doc_count":743613,"title":"新锐作者","view_count":16069130,"value_score":"3.3","prove_url":"","phone":"","show_auth":0,"level_info":{"level":"3","is_keep":"0","total_score":"445","content_score":"130","alive_score":"506","business_score":"697","profession_score":"700","credit_score":"478","create_time":"1604996687","update_time":"1604996687","level_name":"新锐作者","levelShow":"c","levelText":"金牌店铺"},"shop_follow":{"is_own_shop":0,"follow_count":"166","is_followed":"0"},"shop_info":{"shop_id":"153612","shop_name":"文档新时代","cid":"59","cid_name":"其它","logo":"https://pic.rmb.bdstatic.com/bjh/user/aa8d0a90ac58652e00d4af0d40d817ae.jpeg","head_pic":"","introduction":"欢迎你的到来，我们一起学习吧！","pc_theme":"1","mb_theme":"1","shop_status":"60","verify_status":"0","verify_type":"0","create_time":"1606023793","update_time":"1606023793","notice_order":0,"shop_id_str":"7c52b968a98271fe910ef95d","shop_level":"3","shop_level_name":"金牌店铺","shop_name_show":"文档新时代的店"},"typeTitle":"个人主页"},"can_read":1,"price_info":{"doc_price":0,"doc_ticket":0,"is_payment_doc":0,"shopVoucherInfo":{}},"vip_info":[],"like_info":{"is_liked":0},"attestation_doc_result":0,"is_copyright":0,"is_exclusive":0,"copyright_flag":0,"doc_view_rec_test_type":0},"readerInfo2019":{"tpl_key":"html_view","md5sum":"&md5sum=6c828929a9e71b7833630c39ed4c25d2&sign=fa6a5cdb7f&rtcs_flag=2&rtcs_ver=3","pageInfo":{"pageHeight":"1262.879","pageWidth":"892.979","pageWH":["892.979","1262.879"],"other":null,"version":6},"htmlBcs":true,"htmlUrls":"{\"ttf\":[{\"pageIndex\":1,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=0-39990&sign=fa6a5cdb7f\"},{\"pageIndex\":2,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=39991-77995&sign=fa6a5cdb7f\"},{\"pageIndex\":3,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=77996-118158&sign=fa6a5cdb7f\"},{\"pageIndex\":4,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=118159-156485&sign=fa6a5cdb7f\"},{\"pageIndex\":5,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=156486-198524&sign=fa6a5cdb7f\"},{\"pageIndex\":6,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=198525-240495&sign=fa6a5cdb7f\"},{\"pageIndex\":7,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=240496-278794&sign=fa6a5cdb7f\"},{\"pageIndex\":8,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=278795-317311&sign=fa6a5cdb7f\"},{\"pageIndex\":9,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=317312-357231&sign=fa6a5cdb7f\"},{\"pageIndex\":10,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=357232-394610&sign=fa6a5cdb7f\"},{\"pageIndex\":11,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=394611-433460&sign=fa6a5cdb7f\"},{\"pageIndex\":12,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=433461-470985&sign=fa6a5cdb7f\"},{\"pageIndex\":13,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=470986-517830&sign=fa6a5cdb7f\"},{\"pageIndex\":14,\"param\":\"&md5sum=6c828929a9e71b7833630c39ed4c25d2&range=517831-&sign=fa6a5cdb7f\"}],\"json\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=0-9703&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.yRW6lT5R9sYKlMk5lbybK5Otk32vUm8A%2Fga5SatxEmM%3D.1607228601\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=9704-18697&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.LmcdRqK%2FyvuTVKq%2FHiQj6YTtLfdvRJkHo9Z6L7hCFxs%3D.1607228601\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=18698-27039&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.PxI54Rht4MP4T0qIW39HlGt3HBz5c3rJdNDqHhcVLn0%3D.1607228601\"},{\"pageIndex\":4,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=27040-37891&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.mzVe8%2FoEDYu7nXrpeQ0O78qwq1XIh67L2L5HRefOGIg%3D.1607228601\"},{\"pageIndex\":5,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=37892-47256&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.JTq%2FvPPc5K1MjKY1Ck6zhVG%2Broqe6Kff4fS%2FmC%2Fndkk%3D.1607228601\"},{\"pageIndex\":6,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=47257-57783&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VFhI%2FknwRHzv2imE25hRQvaykHzqHplNcdKCuh%2FLsE0%3D.1607228601\"},{\"pageIndex\":7,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=57784-71650&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.UNg8Fx1LhJOwEl8s%2FQCXNY4GUHHOhy7wQG2lqhd3hZs%3D.1607228601\"},{\"pageIndex\":8,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=71651-83936&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.apDUQn8s0SKsRntkCnUle3%2Fk%2FQrNCl0%2FKpEGgkKGKY4%3D.1607228601\"},{\"pageIndex\":9,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=83937-91785&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.qwN1bD5CVdmTfZebUkti%2FQIyo2lu7rEV%2FXsLhd49%2FEc%3D.1607228601\"},{\"pageIndex\":10,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=91786-99235&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VGvMA00Q16HTZFZdbplV%2BHUM6Jq4CTibBwLqij3yht8%3D.1607228601\"},{\"pageIndex\":11,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=99236-109007&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.ctOsR16EpG%2Baup3K5o25iHE82VLHtje92LMxLo34Tl8%3D.1607228601\"},{\"pageIndex\":12,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=109008-118734&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.jWQmssaXGvJBj7iUcmldIiQnHJPIfu%2FeRzJWanP6gbs%3D.1607228601\"},{\"pageIndex\":13,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=118735-128659&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.JN0cE5psKbMX7f8WpAZ8NDMrKTp%2BE8%2BsE22RkYw%2B2zo%3D.1607228601\"},{\"pageIndex\":14,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2F6ccb66fdf218e31be71fae2d36298ccf56c6d4c0afc8055067b469ac651a6661&x-bce-range=128660-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.jrrKAIBOTy%2FXEGqzK5jyU7jtwUELUM8rEYKVQJRtaH4%3D.1607228601\"}],\"png\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=0-275&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.UmFgQT3W1RvWmMTPw3Fb7JcSUl5O3DaOatDEI%2FUM07I%3D.1607228601\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=276-551&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.WaqkL97p0fIPNVK6hQA4snlVf%2BC7nMsiC3PWGC9b0Nc%3D.1607228601\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=552-827&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.3ch5P%2B7Ot6Wm8Jnuoy6tMpGhpjhDQEfsukCyVG3IMzY%3D.1607228601\"},{\"pageIndex\":4,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=828-1103&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.gR5vJxnQHJZAvKJy%2FoSMmjPixxvszj8NcuFoSnpNJVY%3D.1607228601\"},{\"pageIndex\":5,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=1104-1379&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.kw9Rkjm%2BsG3jHCnOcRbGzY671e35GYhwGzggXvfwmsw%3D.1607228601\"},{\"pageIndex\":6,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=1380-1655&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.z%2FYFFMXDERjowoAPWkglWCuRvM4OezpKEUbcpYsJkn8%3D.1607228601\"},{\"pageIndex\":7,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=1656-1931&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.Y9mLrBFZ8BLSN3TLttObbeFdZgMMIFWxet%2FXe7icSBw%3D.1607228601\"},{\"pageIndex\":8,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=1932-2207&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.rA6kOewpM8Cma4%2BQB%2BMX2Mux4RvUqJ7uCJZL7YVtadI%3D.1607228601\"},{\"pageIndex\":9,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=2208-2483&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.gBOTXSS%2BKJUe1AuBbWJ1O5izFp0lKj6IT9Ci9D53yzE%3D.1607228601\"},{\"pageIndex\":10,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=2484-2759&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.0VWr5MbyZEVMChyxEwNJX7nK0DtcKWclIK6Df2bRCyc%3D.1607228601\"},{\"pageIndex\":11,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=2760-3035&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.AFhNDpNmmgDzukDl7EeXWSZHpKb74yaZcbYm2ng4EH8%3D.1607228601\"},{\"pageIndex\":12,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=3036-3311&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.XooEX8PTR55%2FNnkRtGkDyoXAdahiSSVs1iAPRN6eX10%3D.1607228601\"},{\"pageIndex\":13,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=3312-3587&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.JPVYa%2BVWluux78uNcp2JPe22u0lzXRBTfL4lFjM7yOc%3D.1607228601\"},{\"pageIndex\":14,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert9292\\/\\/wk\\/6c828929a9e71b7833630c39ed4c25d2\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2020%20Jan%202021%2011%3A23%3A21%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-06T03%3A23%3A21Z%2F3600%2Fhost%2Fcddd682aa5bd27f350d5d21e2d233150ee2f6f267c6ebf8b5fbccdc5ed4db7f7&x-bce-range=3588-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwNzIyODYwMSwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.OSf6Q%2BSH02st6dFc7d2aTm%2By1xDIwim36XSkUethNg0%3D.1607228601\"}]}","free_page":"14","show_page":"14","page":"14","editor_info":[],"rsign":""},"mixVipAndUserInfo":{"error_no":"2","userInfo":{"isLogin":false,"uip":"10.9.1.87","uipNum":"1459685642","isHadSecuremobil":0,"bjhVtype":0,"bjhVintro":""}},"vipInfo":{},"myShopInfo":null,"wkAdBlockStatus":{"errstr":"success","block_status":false},"antiClass":"wkwm17636502368","hxXapgeDate":{"form_data":{"knowAd":100,"ad":100,"zyStr":5,"searchNewStyleStr":0,"viewFcReqStr":100,"searchFcReqStr":100,"newHxReqStr":100,"viewToSearchReqStr":100,"vipNoAd":{"vipNoAd":{"time":0},"vipNoAdDuiZhao":{"flow":"0/1/2/3/4/5/6/7/8/9/10","time":1440}},"zhishiReqStr":100,"zhishiSearchReqStr":100,"zhishiView":{"oldView":{"flow":"1/2/3/4/5/6/7/8/9/10"}},"searchAdTime":{"together":{"flow":"1/15"},"adAfter":{"flow":"85/100"}},"searchAdSwitch":1,"searchTopBottomAd":{"top":{"flow":"1/2/3/4/5/6/7"},"bottom":{"flow":"8/9/10"}},"guid_to_university_na":{"isopen":false}}},"controlFeature":{"pcGrayTheme":false},"saleActivityXpage":{"activity_name":"优选文档限时VIP8折","activity_subtitle":"优惠还剩","url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=Viewvip8qipao","start_time":1587398400000,"end_time":1587571200000,"activity_switch":false},"viewControl":{"controll_type":2,"controll_reason":"","doc_flag":28,"main_status":"2"},"token":"1607225001_0aa357f9e0122cd004418602064bcb7d","wkSmallflow":{"visible1796":true,"wkWeb2024":0},"skinViewStrategy":{"topbar_pic_url":"https://edu-tob.bdimg.com/v1/pc/PC%E5%8E%8B%E9%A1%B6-%E5%B0%8F%E5%9B%BE-1604933909358.jpg","topbar_big_pic_url":"https://edu-tob.bdimg.com/v1/pc/PC%E5%8E%8B%E9%A1%B6-%E5%A4%A7%E5%9B%BE-1604933901570.jpg","topbar_jump_url":"https://wenku.baidu.com/ndbusiness/browse/wkcoincashier?cashier_code=11","leftbar_pic1_url":"//edu-wenku.bdimg.com/v1/images/侧边栏头-1576725822251.png","leftbar_pic2_url":"//edu-wenku.bdimg.com/v1/images/%E4%BE%A7%E8%BE%B9%E6%A0%8F%E4%B8%AD-1576725820663.png","leftbar_pic3_url":"//edu-wenku.bdimg.com/v1/images/zsj-leftbar-close.png","leftbar_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromViewxuanfu","toppos_pic_url":"https://edu-tob.bdimg.com/v1/pc/WPS%E5%9B%BE%E7%89%87-%E4%BF%AE%E6%94%B9%E5%B0%BA%E5%AF%B8-1606312056328.png","toppos_jump_url":"https://wenku.baidu.com/ndbusiness/browse/wenkuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312","topbar_is_open":false,"leftbar_is_open":false,"toppos_is_open":false,"key":"__wk_view_topbar_2020116"},"ssr":1,"giftInfo":{"giftSwitch":true,"giftIcon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","priceLimit":2990,"giftCount":{"target":"price","rules":[{"min":"29.9","max":"54.9","value":1},{"min":"54.9","max":"Infinity","value":2}]},"pcWenjiView":{"title":"送{{giftCount}}个月QQ音乐会员"},"pcWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","recommandTip":"赠会员"},"wapWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic-1595224358151.png","recommandTip":"赠会员"},"activityPageCopy":{"wenjiListCopy":"送%s个月QQ音乐会员"},"cashier":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"送%s个月QQ音乐会员"}],"sucPcPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及文库站内信形式发送给您","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}],"sucWapPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及站内信发送给您（可在电脑端登录百度文库-个人中心-我的消息查看），请注意查收~","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}]},"activity":{"actImg":"https://qn13.tool.lu/202005/24/151913rdYgDQ2kAe4XSces_280x150.png","leftNum":9345,"totalNum":10000,"consume":655,"startTime":1600616459,"endTime":1600963200},"channelId":"","getGuideNaXpage":[{"guideNARefer":"1020999h","andriodRoute":"https://downpack.baidu.com/baiduwenku_AndroidPhone_1020999h.apk","codeImg":"https://edu-wenku.bdimg.com/v1/pc/sidebar_qr_code-1600926465061.png"}],"pcClientLandingPage":{"pcSwitch":true,"app":{"title":"百度文库 APP","back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/app-back.png","desc":"作业、做题辅导学习必备神器","tip":"月卡加赠7天","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APPicon-1603434254133.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20%E5%AE%89%E5%8D%93%E7%AB%AF-1602299474435.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20iOS%E7%AB%AF-1602299504173.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E5%AE%9E%E7%94%A8%E6%96%87%E6%A1%A3-1603258168544.png","https://edu-wenku.bdimg.com/v1/na/0807/%E4%B8%93%E4%B8%9A%E8%B5%84%E6%96%99-1603258274377.png","https://edu-wenku.bdimg.com/v1/na/0807/APP%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603434275434.png"]},"college":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/college-back.png","title":"文库大学生版","desc":"大学生搜答案搜解析必备利器","tip":"购会员享时长优惠","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7%E6%90%9C%E9%A2%98icon-1603434225463.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%89%E5%8D%93%E7%AB%AF-1602316540190.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9FiOS%E7%AB%AF-1602316512495.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9C%8B%E8%A7%A3%E6%9E%90-1603258193717.png","https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7-1603258296963.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7-1603258390318.png"]},"mac":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Mac(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.0.10","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93MAC-1.0.10.dmg","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"win":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Windows(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.0.10","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93WIN%E7%89%88-1.0.10.exe","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"pcGoClientBtnSwitch":true},"tplName":"xreader","player":"html_xreader","reader_type":"reader_html_xreader","title":"创新创业计划书范文 - 百度文库"};
+        window.pageData = pageData;
+        var docInfo2019 = pageData.docInfo2019;
+        var vipInfo = pageData.vipInfo;
+        var readerInfo2019 = pageData.readerInfo2019;
+        var viewControl = pageData.viewControl || {};
+        var wkSmallflow = pageData.wkSmallflow || {};
+        var priceInfo = pageData.docInfo2019.price_info || {};
+        var actInfo = priceInfo.act_info || {};
+        var actPrice = actInfo.act_price || 0;
+        var isPackageDoc = priceInfo.is_package;
+        var ispaied = +priceInfo.ispaied === 1;
+        var isVip = vipInfo.global_vip_status ? 1 : 0;
+        var isPackageDoc = priceInfo.is_package && !(priceInfo.is_discount_doc && isVip);
+        var mixVipAndUserInfo = pageData.mixVipAndUserInfo || {};
+        var userInfo = mixVipAndUserInfo.userInfo || {};
+        var shopVoucherInfo = priceInfo.shopVoucherInfo || {};
+        window.wkCommonLogParam = {
+            t1990: 1,
+            ssr: pageData.ssr,
+            v2020: 1,
+            doc_id: docInfo2019.doc_info.show_doc_id,
+            doc_title: docInfo2019.doc_info.title,
+            is_login: userInfo.isLogin ? 1 : 0,
+            is_vip: isVip,
+            page: 'view',
+            rebuild2019: 1,
+            sf_svip: 2111,
+            docValueType: +docInfo2019.doc_info.doc_type === 2,
+            // 积分 或 价格（分）
+            docPrizeOrTicket: +docInfo2019.price_info.doc_price,
+            player: pageData.player,
+            reader_type: pageData.reader_type,
+            // 以下点位本次改版新加
+            // 文档格式类型
+            type: docInfo2019.doc_info.type,
+            // 共享: 1, 付费: 2, vip专享: 3, 私有: 4
+            doc_type: docInfo2019.doc_info.doc_type,
+            // 共享文档-vip免费文档
+            is_vip_free_doc: +docInfo2019.doc_info.is_vip_free_doc,
+            // 支持全文看
+            can_read_all: +(+readerInfo2019.free_page === +readerInfo2019.page),
+            // 支持文档下载
+            is_downloadable: docInfo2019.price_info.is_downloadable || 0,
+            // 私密文档是否支持下载
+            secret_downloadable: docInfo2019.doc_info.is_downloadable || 0,
+            // 是否已经获取（购买）过
+            has_got: +docInfo2019.price_info.ispaied || 0,
+            // 打折文档
+            is_discount_doc: +docInfo2019.price_info.is_discount_doc || 0,
+            coupon_id: shopVoucherInfo.couponId,
+            coupon_drawed: shopVoucherInfo.isDraw ? 1 : 0,
+            wkTestId: wkSmallflow.testId || '',
+            wkTestData: wkSmallflow.testDataStr || '',
+            wkWeb2024: wkSmallflow.wkWeb2024 || 0
+        };
+    </script>
+<script src="https://edu-wenku.bdimg.com/v1/pc/browserdata/browserdata-min.js" type="text/javascript"></script>
+<script src="https://code.bdstatic.com/npm/spy-client@2.0.3/dist/spy-client-basic.min.js" type="text/javascript"></script>
+<script defer="" src="https://edu-wenku.bdimg.com/v1/pc/protocolcheck/protocolcheck.js" type="text/javascript"></script>
+<!-- built files will be auto injected -->
+</body>
+</html><!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><title>百度文库 - 让每个人平等地提升自我</title><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><meta content="width=device-width,initial-scale=1" name="viewport"/><link href="https://www.baidu.com/cache/icon/favicon.ico" rel="shortcut icon" type="image/x-icon"/><link href="https://www.baidu.com/cache/icon/favicon.svg" rel="icon" sizes="any"/><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/css/index.eafc67f0964b7815b021.css" rel="stylesheet"/></head><body><style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+</style>
+<div id="app"></div><script>window.pageData = {"passUserInfo":{"isLogin":false},"mixVipAndUserInfo":{},"vipInfo":{},"operationData":{"list":[{"imgSrc":"https://edu-wenku.bdimg.com/v1/shouye/%E5%90%8D%E5%B8%88%E8%AE%A1%E5%88%92-%E6%96%B0%E9%A6%96%E9%A1%B5%E5%A4%B4%E5%9B%BE%E4%B8%8B%E6%96%B9%E8%BF%90%E8%90%A5%E4%BD%8D%20486-276-1604397510721.png","url":"https://wenku.baidu.com/ndtopic/teachingplan2020"},{"imgSrc":"https://edu-tob.bdimg.com/v1/pc/%E6%96%87%E5%BA%93%E6%96%B0%E9%A6%96%E9%A1%B5-%E5%A4%B4%E5%9B%BE%E4%B8%8B%E6%96%B9%E8%BF%90%E8%90%A5%E4%BD%8D-1596531409116.png","url":"https://wenku.baidu.com/ndtopic/cpacardpolymer"},{"imgSrc":"https://edu-tob.bdimg.com/v1/pc/486-276-1615791825566.png","url":"https://wenku.baidu.com/ndbusiness/browse/wenkuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312"},{"imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E5%9E%82%E7%B1%BB%E8%BF%90%E8%90%A5/1c9dd429784ec4a13342f95545a616f2-1587899245670.PNG","url":"https://wenku.baidu.com/shop/d91087c24028915f804dc22f"}]},"classList":{"docs":[{"className":"公司财报","url":"https://snail.baidu.com/ndyanbao/browse/index#/search?snailType=公司财报"},{"className":"行业研究","url":"https://snail.baidu.com/ndyanbao/browse/index#/search?snailType=行业研究"},{"className":"高校与高等教育","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=2"},{"className":"语言/资格考试","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=3"},{"className":"实用模板","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=10"},{"className":"法律","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=4"},{"className":"建筑","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=5"},{"className":"互联网","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=6"},{"className":"行业资料","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=7"},{"className":"政务民生","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=8"},{"className":"说明书","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=9"},{"className":"生活娱乐","url":"https://wenku.baidu.com/ndcore/browse/sub?isBus=1&isPus=-1&isChild=&isType=11"}],"books":[{"className":"经济管理","url":"https://yuedu.baidu.com/book/list/1?show=0"},{"className":"成功励志","url":"https://yuedu.baidu.com/book/list/2?show=0"},{"className":"历史传记","url":"https://yuedu.baidu.com/book/list/15?show=0"},{"className":"计算机","url":"https://yuedu.baidu.com/book/list/3?show=0"},{"className":"生活","url":"https://yuedu.baidu.com/book/list/5?show=0"},{"className":"亲子少儿","url":"https://yuedu.baidu.com/book/list/10?show=0"},{"className":"文学艺术","url":"https://yuedu.baidu.com/book/list/7?show=0"},{"className":"社会科学","url":"https://yuedu.baidu.com/book/list/4?show=0"},{"className":"科技","url":"https://yuedu.baidu.com/book/list/9?show=0"},{"className":"小说","url":"https://yuedu.baidu.com/book/list/6?show=0"},{"className":"原创男频","url":"https://yuedu.baidu.com/book/list/11?show=0"},{"className":"原创女频","url":"https://yuedu.baidu.com/book/list/12?show=0"}],"brands":[{"className":"干洗加盟","url":"https://wenku.baidu.com/ndbgc/channel/laundry?laundry"},{"className":"艺术留学","url":"https://wenku.baidu.com/ndbgc/channel/sifenke?sifenke"},{"className":"装修","url":"https://wenku.baidu.com/ndbgc/channel/jutong?ch=jutong"},{"className":"少儿乐器陪练","url":"https://wenku.baidu.com/ndbgc/channel/kuaipeilian?ch=kuaipeilian"},{"className":"少儿英语","url":"https://wenku.baidu.com/ndbgc/channel/seenglish?ch=seenglish"},{"className":"法考","url":"https://wenku.baidu.com/ndbgc/channel/legalexam?ch=legalexam"},{"className":"微盟小程序","url":"https://wenku.baidu.com/activity/browse/weimeng?ch=weimeng"},{"className":"学历提升","url":"https://wenku.baidu.com/ndbgc/channel/xuelitisheng?ch=xuelitisheng"},{"className":"护士资格证","url":"https://wenku.baidu.com/ndbgc/channel/nurseexam?ch=nurseexam"},{"className":"考研资料","url":"https://wenku.baidu.com/ndbgc/channel/wendukaoyan"},{"className":"监理工程师","url":"https://wenku.baidu.com/ndbgc/channel/supervisor?ch=supervisor"},{"className":"在职考研","url":"https://wenku.baidu.com/ndbgc/channel/postgraduate"},{"className":"思维导图","url":"https://wenku.baidu.com/ndbgc/channel/aimonaotu?ch=aimonaotu"},{"className":"项目管理师","url":"https://wenku.baidu.com/activity/browse/ghbuildsubject?ch=ghbuild"},{"className":"人事管理软件","url":"https://wenku.baidu.com/ndbgc/channel/secondhr?ch=secondhr"},{"className":"MBA","url":"https://wenku.baidu.com/ndbgc/channel/mba?ch=mba"},{"className":"执业医师","url":"https://wenku.baidu.com/ndbgc/channel/pharmacist?ch=pharmacist"},{"className":"二级建造师","url":"https://wenku.baidu.com/ndbgc/channel/constructor?ch=constructor"},{"className":"视频剪辑","url":"https://wenku.baidu.com/ndbgc/channel/videoclip?ch=videoclip"},{"className":"教师资格证","url":"https://wenku.baidu.com/ndbgc/channel/teacherqc?ch=teacherqc"},{"className":"中高考学习","url":"https://wenku.baidu.com/activity/browse/schoolsubject?ch=jdxxwschool"},{"className":"初级会计","url":"https://wenku.baidu.com/ndbgc/channel/cjaccountant2020?ch=cjaccountant2020"},{"className":"室内设计","url":"https://wenku.baidu.com/ndbgc/channel/shineisheji?ch=shineisheji"},{"className":"do双眼皮","url":"https://wenku.baidu.com/ndbgc/channel/meilai1?ch=meilai1"},{"className":"隆鼻de模板","url":"https://wenku.baidu.com/ndbgc/channel/meilai2?ch=meilai2"},{"className":"吸脂S塑形","url":"https://wenku.baidu.com/ndbgc/channel/meilai3?ch=meilai3"},{"className":"胸部曲线美学","url":"https://wenku.baidu.com/ndbgc/channel/meilai4?ch=meilai4"},{"className":"企业应用软件","url":"https://wenku.baidu.com/activity/browse/channelsubject?ch=1810meeting"}],"vips":[{"className":"VIP福利社","url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter"},{"className":"VIP免费专区","url":"https://wenku.baidu.com/user/browse/newvipfreedoczone"},{"className":"VIP领券中心","url":"https://wenku.baidu.com/ndwelfare/browse/vouchercenter"},{"className":"VIP权益","url":"https://wenku.baidu.com/ndvipmember/browse/vipprivilege"}],"client":[{"className":"PC客户端","url":"https://wenku.baidu.com/pcactivity/landingPage"},{"className":"百度文库APP","url":"https://wenku.baidu.com/pcactivity/landingPage"},{"className":"文库大学生版","url":"https://wenku.baidu.com/pcactivity/landingPage"}]},"searchData":{"opHotWord":[{"bgColor":"#22AB82","activeBgColor":"#1C9F78"}],"normalHotWords":[{"query":"协议书"},{"query":"贷款合同"},{"query":"日历表"},{"query":"简历模板"},{"query":"入党申请书"},{"query":"建筑"},{"query":"考研"},{"query":"新冠肺炎"},{"query":"课件"}],"bgImgs":[{"startTime":"2021-03-15T00:00","endTime":"2021-03-21T23:59","imgSrc":"https://edu-tob.bdimg.com/v1/pc/37fd01b763261916b1652e1c3c9c3efb-1615790971651.JPG","linkUrl":"https://icard.usuredata.com/#/yhldL2dw11"},{"startTime":"2021-03-16T00:00","endTime":"2021-03-21T23:59","imgSrc":"https://edu-tob.bdimg.com/v1/pc/5120-640-1615791103151.jpg","linkUrl":"https://wenku.baidu.com/ndbusiness/browse/wenkuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312"}]},"userCardData":{"confNotLogin":{"tipText":"会员享精品图书、格式转换特权","btnText":"15元立即开通VIP","cashierCode":"new_shouye_vipcard_unlogin_kt"},"confNotVip":{"tipText":"会员享精品图书、格式转换特权","btnText":"15元立即开通VIP","cashierCode":"new_shouye_vipcard_xinke_kt"},"confVipExpired":{"tipText":"会员享精品图书、格式转换特权","btnText":"立即续费","cashierCode":"new_shouye_vipcard_laoke_kt"},"confVip":{"tipText":"会员享精品图书、格式转换特权","btnText":"立即续费","cashierCode":"new_shouye_vipcard_vip_xf_morethan15"},"confVipAlmostExpired":{"tipText":"您的VIP即将到期，续费立享优惠","btnText":"立即续费","cashierCode":"new_shouye_vipcard_vip_xf_lessthan15"},"tools":[{"toolName":"限量好券","url":"https://wenku.baidu.com/ndwelfare/browse/vouchercenter","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E4%BC%98%E6%83%A0%E5%88%B8-1588823694533.png"},{"toolName":"格式转化","url":"https://wenku.baidu.com/ndvipmember/browse/huixueconvert","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1585665603540.svg"},{"toolName":"福利社","url":"https://wenku.baidu.com/ndwelfare/membercenter/welfarecenter","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E7%A4%BC%E5%8C%85%E5%A4%87%E4%BB%BD%402x-1592812400637.png"},{"toolName":"PPT定制","url":"https://wenku.baidu.com/ndgoods/browse/customizedppt","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/ppt%E5%AE%9A%E5%88%B6-1585665680399.svg"},{"toolName":"合同拟定","url":"https://wenku.baidu.com/ndgoods/browse/customized","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E5%90%88%E5%90%8C-1585665741975.svg"},{"toolName":"组卷","url":"https://wenku.baidu.com/ndvertical/zujuan/index?pn=1&chapter_id=0422192e453610661ed9f405","imgSrc":"https://edu-wenku.bdimg.com/v1/na/0807/%E7%BB%84%E5%8D%B7-1585665781559.svg"}]},"vouchers":{},"promotionData":{"list":[{"id":"3f08844769eae009581bec01","title":"500强企业特聘讲师亲授：108套销售心法！","type":4,"original_price":"108.00","price":"108.00","img_url":"https://edu-tob.bdimg.com/v1/ad/f1d60a7d76ab9d63a4c0e248a738ef4d-1610420276571.PNG","jump_url":"https://wenku.baidu.com/video/courseview/28fdc9d376eeaeaad1f33005","startTime":"","endTime":"","typeName":"course"},{"id":"d9fcf705cc17552707220806","title":"幼儿成长发育各阶段知识","type":4,"original_price":"169.90","price":"89.90","img_url":"https://edu-tob.bdimg.com/v1/pc/b4783337a567b013155aebea41a034f6-1606706050903.PNG","jump_url":"https://wenku.baidu.com/video/courseview/a9fe4727a5e9856a561260c4","startTime":"2020-09-01T12:12","endTime":"","typeName":"course"},{"id":"90df5022aaea998fcc220e06","title":"汉字里的节气之美：孩子一定要懂的国学识字启蒙课！","type":4,"original_price":"59.00","price":"59.00","img_url":"https://edu-tob.bdimg.com/v1/pc/1712a0b6662f33f0ac25f16c9d98ab32-1607661587754.JPG","jump_url":"https://wenku.baidu.com/video/courseview/a60f70fe910ef12d2af9e788","startTime":"","endTime":"","typeName":"course"},{"id":"1d2a453610661ed9ad51f301","title":"实战派人脉术，快速找到你想找的那个人！","type":4,"original_price":"99.00","price":"99.00","img_url":"https://edu-tob.bdimg.com/v1/pc/e74b5e7c53e29b240e3af7cac3de20f7-1598843280399.PNG","jump_url":"https://wenku.baidu.com/video/courseview/242912a6f524ccbff1218434","startTime":"","endTime":"","typeName":"course"},{"id":"3121bcd126fff705cc170a06","title":"高中数学暑期特训班：必修1至必修5考点合辑","type":4,"original_price":"998.00","price":"498.00","img_url":"https://edu-tob.bdimg.com/v1/pc/xianshicuxiao-1594982102257.PNG","jump_url":"https://wenku.baidu.com/video/courseview/c314e65c3b3567ec102d8a5b","startTime":"","endTime":"","typeName":"course"},{"id":"8419ff00bed5b9f3f90f1c06","title":"英语语法入门：写好简单句子","type":4,"original_price":"99.00","price":"9.90","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/%E5%9E%82%E7%B1%BB%E8%BF%90%E8%90%A5/d808b646c8a30afb3554ef306f0ac96c-1593397923770.PNG","jump_url":"https://wenku.baidu.com/video/courseview/613a900ef12d2af90242e6c1","startTime":"","endTime":"","typeName":"course"},{"id":"1303bed5b9f3f90f76c61b06","title":"引爆执行力","type":2,"original_price":"25.99","price":"17.98","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/d0c8a786c9177f3ec24ac1577fcf3bc79f3d5669-1590669309420.jpg","jump_url":"https://yuedu.baidu.com/ebook/f1b8d6edec630b1c59eef8c75fbfc77da3699745?fr=sy","startTime":"","endTime":"","typeName":"book"},{"id":"160c76c66137ee06eff91806","title":"创新创业战略工具-商业模式画布","type":4,"original_price":"599","price":"199","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/55992-66009-d8102dc62984a354e6c1ce397ca15202-1585900788918.png","jump_url":"https://wenku.baidu.com/video/courseview/4985b8f67c1cfad6195fa768","startTime":"","endTime":"","typeName":"course"},{"id":"611da76e58fafab069dc0206","title":"陈鸣：学会高效表达，带你决胜未来","type":4,"original_price":"199","price":"69","img_url":"https://edu-wenku.bdimg.com/v1/na/0807/99%E7%9F%A5%E8%AF%86%E8%8A%82%E5%88%86%E4%BA%AB%E8%90%BD%E5%9C%B0%E9%A1%B5/57889-43968-fc5e1d2a39beb4a6200a53764faa23c7-1585900789915.jpg","jump_url":"https://wenku.baidu.com/video/courseview/c251647d27284b73f242507d","startTime":"","endTime":"","typeName":"course"},{"id":"8e6ceffdc8d376eeaeaa315c","title":"人教版小学语文课文三年级（下册）32课时","type":4,"original_price":"4.9","price":"0.01","img_url":"https://wk-video-img.cdn.bcebos.com/5089-63699-a8aae3a2710bed89dbf4f9e342efe719.jpg","jump_url":"https://wenku.baidu.com/video/courseinfo/8e6ceffdc8d376eeaeaa315c?fr=pcsy","typeName":"course"},{"id":"1e4bae45b307e87101f6966f","title":"高二数学春季提高班","type":4,"original_price":"450","price":"198","img_url":"https://wk-video-img.cdn.bcebos.com/16076-48523-c0853a38db82c6f1736b87d842aee763.jpg","jump_url":"https://wenku.baidu.com/video/courseinfo/1e4bae45b307e87101f6966f?fr=pcsy","typeName":"course"},{"id":"10f8842458fb770bf78a55b3","title":"初三化学中考决胜班","type":4,"original_price":"450","price":"198","img_url":"https://wk-video-img.cdn.bcebos.com/16076-50898-ef0ce60eab6688b59e06a98b63eec72c.jpg","jump_url":"https://wenku.baidu.com/video/courseinfo/10f8842458fb770bf78a55b3?fr=pcsy","typeName":"course"}]},"myShopInfo":null,"controlFeature":{"pcGrayTheme":false},"forCacheToken":"1615803976_8a1dce1d743532033e23a4155110504f"};
+        window.wkCommonLogParam = {
+            page: 'new_index'
+        };</script><!-- built files will be auto injected --><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/js/dll/vendor.3366dc5c06aaec8d2269.dll.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/js/dll/orion.3366dc5c06aaec8d2269.dll.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/js/common/common.eafc67f0964b7815b021.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/js/common/vendors~account~audio~docPack~index~packagedoc~sub~tagCategory~video.eafc67f0964b7815b021.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndcore/js/views/index.eafc67f0964b7815b021.js"></script></body></html>
